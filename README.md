@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDcxanU5eHdkeGxzdWZzZzhuNmVvdWM4dnlvMGRvbDhnOWVkMW1oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="130"/>
 </div>
 
 <h2 align="center"> Hi there 👋, I'm Ahmed Hamed </h2>
