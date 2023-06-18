@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDcxanU5eHdkeGxzdWZzZzhuNmVvdWM4dnlvMGRvbDhnOWVkMW1oZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5ndklThG9vUUdTmgMn/giphy.gif" width="130"/>
 </div>
 
@@ -47,12 +47,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>&nbsp;
   </a>
 </div>
+<br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark"/>
+</div>
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmedHamed3699&theme=dark&background=000000)](https://git.io/streak-stats)
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamed3699&theme=dark&background=000000"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark"/>
+</div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
