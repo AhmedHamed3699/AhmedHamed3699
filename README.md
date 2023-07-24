@@ -40,8 +40,20 @@
   <a href="https://www.python.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.pygame.org/docs/">
+    <img src="https://www.pygame.org/docs/_static/pygame_logo.svg" alt="Pygame" width="100" height="40"/>&nbsp;
+  </a>
   <a href="https://git-scm.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.vim.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://trello.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>&nbsp;
