@@ -23,7 +23,6 @@
 
 ### 🖐 About Me : 
 #### I'm a *Computer Engineering Student*
-- 🔭 I’m currently working on ***An Asteroids Game***
 - 🌱 I’m currently learning ***Software Engineering***
 - 💬 Ask me about ***C++, OOP, Competitive Programming***
 - 📫 How to reach me:  ahmedhamed3699@gmail.com
@@ -61,14 +60,14 @@
 </div>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=merko"/>
 </div>
 
 ### 🔥 My Stats :
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamed3699&theme=dark&background=000000"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 
