@@ -21,14 +21,14 @@
   
 <img src="https://komarev.com/ghpvc/?username=AhmedHamed3699&style=flat-square&color=blue"/>
 
-### 🖐 About Me : 
-#### I'm a *Computer Engineering Student*
-- 🌱 I’m currently learning ***Software Engineering***
+### 🖐 About Me
+**I'm a *Computer Engineering Student***
+- 🌱 I’m currently Enrolled in ***ALX Software Engineering***
 - 💬 Ask me about ***C++, OOP, Competitive Programming***
 - 📫 How to reach me:  ahmedhamed3699@gmail.com
-- 📄 Check out my resume  [Here](https://drive.google.com/file/d/1tHNA-4GNwWVd74G1TmIVwRpqOKZTo_sO/view?usp=sharing)
+- 📄 Check out my resume  [Here](https://drive.google.com/file/d/10L3k6im_rbuDl5_npgn7xfdZwOJJQPkd/view?usp=sharing)
 
-### 🔧 Languages and Tools :
+### 🔧 Languages and Tools
 <div>
   <a href="https://www.cprogramming.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -54,8 +54,29 @@
   <a href="https://www.vim.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://trello.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>&nbsp;
+  <a href="https://react.dev/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://nodejs.org/en">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
   </a>
 </div>
 <br>
@@ -63,7 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=merko"/>
 </div>
 
-### 🔥 My Stats :
+### 🔥 My Stats
 
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamed3699&theme=dark&background=000000"/> &nbsp;
