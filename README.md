@@ -18,8 +18,6 @@
     <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=AhmedHamed3699" alt="Codeforces Badge"/>
   </a>
 </div>
-  
-<img src="https://komarev.com/ghpvc/?username=AhmedHamed3699&style=flat-square&color=blue"/>
 
 ### 🖐 About Me
 **I'm a *Computer Engineering Student***
