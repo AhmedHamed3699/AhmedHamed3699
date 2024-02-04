@@ -73,6 +73,12 @@
   <a href="https://nodejs.org/en">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://expressjs.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>&nbsp;
   </a>
