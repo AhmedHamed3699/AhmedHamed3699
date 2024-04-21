@@ -22,9 +22,9 @@
 ### 🖐 About Me
 **I'm a *Computer Engineering Student***
 - 🌱 I’m currently Enrolled in ***ALX Software Engineering***
-- 💬 Ask me about ***C++, OOP, Competitive Programming***
+- 💬 Ask me about ***C++, OOP, Backend, Competitive Programming***
 - 📫 How to reach me:  ahmedhamed3699@gmail.com
-- 📄 Check out my resume  [Here](https://drive.google.com/file/d/10L3k6im_rbuDl5_npgn7xfdZwOJJQPkd/view?usp=sharing)
+- 📄 Check out my resume  [Here](https://drive.google.com/file/d/19DbnuLvQWeXpzV8E-WX6CdhbWvwgTZxi/view?usp=sharing)
 
 ### 🔧 Languages and Tools
 <div>
