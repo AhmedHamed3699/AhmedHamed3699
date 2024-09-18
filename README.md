@@ -21,10 +21,10 @@
 
 ### 🖐 About Me
 **I'm a *Computer Engineering Student***
-- 🌱 I’m currently Enrolled in ***ALX Software Engineering***
-- 💬 Ask me about ***C++, OOP, Backend, Competitive Programming***
+- 🌱 GSoC Contributor with LibreOffice
+- 💬 Ask me about ***C++, OOP, Backend, Open-Source, Competitive Programming***
 - 📫 How to reach me:  ahmedhamed3699@gmail.com
-- 📄 Check out my resume  [Here](https://drive.google.com/file/d/19DbnuLvQWeXpzV8E-WX6CdhbWvwgTZxi/view?usp=sharing)
+- 📄 Check out my resume  [Here](https://drive.google.com/file/d/1GDwlNsGcGUaDQqj6FJE_lV6lpfvqBuW1/view?usp=sharing)
 
 ### 🔧 Languages and Tools
 <div>
