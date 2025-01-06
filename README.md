@@ -24,7 +24,7 @@
 - 🌱 GSoC Contributor with LibreOffice
 - 💬 Ask me about ***C++, OOP, Backend, Open-Source, Competitive Programming***
 - 📫 How to reach me:  ahmedhamed3699@gmail.com
-- 📄 Check out my resume  [Here](https://drive.google.com/file/d/1OXqt3br97ndvitz1nGEwlILOqxBoEHK_/view?usp=sharing)
+- 📄 Check out my resume  [Here](https://drive.google.com/file/d/1hlhokuquBtrauDwEb0uyq5NPmrpFLVlz/view?usp=sharing)
 
 ### 🔧 Languages and Tools
 <div>
@@ -85,15 +85,12 @@
 </div>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamed3699&layout=compact&theme=merko&exclude_repo=ALU-RTL&langs_count=10&hide=Stata,Ruby,Puppet,CSS,SCSS,Brainfuck,Dockerfile&hide_progress=true"/>
 </div>
 
 ### 🔥 My Stats
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedHamed3699&theme=dark&background=000000"/> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedHamed3699&layout=compact&theme=vision-friendly-dark"/>
 </div>
-
-
 
